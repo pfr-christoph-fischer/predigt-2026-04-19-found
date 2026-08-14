@@ -10,9 +10,9 @@ series: "Österliche Freudenzeit"
 summary: "Lost ist, wenn alles sinnlos scheint. Dann kommt Jesus, der Messias. Du findest Hoffnung: Found ist, wenn Gott dich hält."
 source: pfarrplaner
 source_id: "297@planer.pfarr.tools"
-cover: cover.
+cover: found.jpg
 cover_alt: "Titelbild zur Predigt \"Found\"."
-audio: audio.mp3
+audio: found.mp3
 audio_duration: "13:53"
 legacy_id: 543
 events:
